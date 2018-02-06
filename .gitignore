@@ -1,0 +1,4 @@
+
+*.xml
+weather/.idea/weather.iml
+*.pyc
